@@ -1,0 +1,8 @@
+
+Faker==5.6.5
+numpy==1.19.4
+pandas==1.2.0
+pipenv==2020.11.15
+streamlit==0.74.1
+virtualenv==20.4.0
+
